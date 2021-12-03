@@ -37,9 +37,6 @@ It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CR
  
 # 💿 Installation:
  
-## a) In your PC/VPS/VM
- 
-> You can check out our wiki for the installation guide [Installation Guide](https://github.com/prakashzhaa/ghost/wiki/0.-Installation-Guide) :book:  
  
 - Requires [Golang](https://golang.org/dl/) > **1.15.0+** installed and paths correctly set (**$GOPATH**, **$GOROOT**)
  
@@ -49,17 +46,7 @@ cd ghost/
 ./install.sh
 ./ghost.sh -d target.com -r
 ```
- 
-### 1) From repository
- 
-```bash
-git clone https://github.com/prakashzhaa/ghost
-cd ghost
-docker build -t ghost Docker/.
-# Running from ghost root folder, configure values properly for your needs
-docker run -v $PWD/ghost.cfg:/root/Tools/ghost/ghost.cfg -v $PWD/Recon/:/root/Tools/ghost/Recon/ --name ghostSCAN --rm ghost -d target.com -r
-```
- 
+  
 # ⚙️ Config file:
 > A detailed explaintion of config file can be found here [Configuration file](https://github.com/prakashzhaa/ghost/wiki/3.-Configuration-file) :book:
  
