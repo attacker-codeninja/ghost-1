@@ -81,29 +81,6 @@ cd ghost/
 ./ghost.sh -d target.com -r
 ```
  
-## b) Docker container 🐳 (2 options)
-
-- Docker parameters usage
-
-``` bash
--d -> Detached 
--v $PWD/ghost.cfg:/root/Tools/ghost/ghost.cfg -> Share CFG with the Docker
--v $PWD/Recon/:/root/Tools/ghost/Recon/ -> Share output folder with the Host
---name ghostSCAN -> Docker name
---rm -> Automatically remove the container when it exits
-'-d target.com -r' -> ghost parameters
-```
-
-### 1) From [DockerHub](https://hub.docker.com/r/prakashzhaa/ghost)
- 
-```bash
-docker pull prakashzhaa/ghost:main
-# Download and configure CFG file
-wget https://raw.githubusercontent.com/prakashzhaa/ghost/main/ghost.cfg
-mkdir Recon
-docker run -d -v $PWD/ghost.cfg:/root/Tools/ghost/ghost.cfg -v $PWD/Recon/:/root/Tools/ghost/Recon/ --name ghostSCAN --rm prakashzhaa/ghost:main -d target.com -r
-```
- 
 ### 2) From repository
  
 ```bash
