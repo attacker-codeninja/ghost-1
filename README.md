@@ -26,7 +26,7 @@
  
 <h3 align="center">Summary</h3>
  
-**ghost** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.       
+**Ghost** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.       
  
 ghost uses lot of techniques (passive, bruteforce, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.   
   
@@ -38,10 +38,8 @@ It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CR
 📔 Table of Contents
 -----------------
 - [💿 Installation:](#-installation)
-  - [a) In your PC/VPS/VM](#a-in-your-pcvpsvm)
-  - [b) Docker container 🐳 (2 options)](#b-docker-container--2-options)
-    - [1) From DockerHub](#1-from-dockerhub)
-    - [2) From repository](#2-from-repository)
+  -  In your PC/VPS/VM](#a-in-your-pcvpsvm)
+  - [1) From repository](#1-from-repository)
 - [⚙️ Config file:](#️-config-file)
 - [Usage:](#usage)
 - [Example Usage:](#example-usage)
@@ -81,7 +79,7 @@ cd ghost/
 ./ghost.sh -d target.com -r
 ```
  
-### 2) From repository
+### 1) From repository
  
 ```bash
 git clone https://github.com/prakashzhaa/ghost
