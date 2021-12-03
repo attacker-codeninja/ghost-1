@@ -9,11 +9,11 @@
 
 <p align="center">
   <a href="https://github.com/prakashzhaa/ghost">
-    <img src="https://img.shields.io/badge/release-v1.1.1-green">
+    <img src="https://img.shields.io/badge/release-v1.1.1-red">
   </a>
    </a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-      <img src="https://img.shields.io/badge/license-GPL3-_red.svg">
+      <img src="https://img.shields.io/badge/license-GPL3-_blue.svg">
   </a>
   <a href="https://twitter.com/Iamtheprakash1">
     <img src="https://img.shields.io/badge/twitter-%40Iamtheprakash1-blue">
@@ -28,11 +28,11 @@
  
 **ghost** automates the entire process of reconnaisance for you. It outperforms the work of subdomain enumeration along with various vulnerability checks and obtaining maximum information about your target.       
  
-ghost uses lot of techniques (passive, bruteforce, permutations, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.   
+ghost uses lot of techniques (passive, bruteforce, certificate transparency, source code scraping, analytics, DNS records...) for subdomain enumeration which helps you getting the maximum and the most interesting subdomains so that you be ahead of the competition.   
   
 It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers, and much more. Along with these, it performs OSINT techniques, directory fuzzing, dorking, ports scanning, screenshots, nuclei scan on your target.
  
-So, what are you waiting for Go! Go! Go! :boom:
+
  
 
 📔 Table of Contents
