@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/prakashzhaa/ghost"> alt="ghost"></a>
+  <a href="https://github.com/prakashzhaa/ghost"></a>
   <br>
   ghost
   <br>
