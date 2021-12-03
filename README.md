@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/prakashzhaa/ghost"><img src="https://github.com/prakashzhaa/ghost/blob/main/images/banner.png" alt="ghost"></a>
+  <a href="https://github.com/prakashzhaa/ghost"> alt="ghost"></a>
   <br>
   ghost
   <br>
@@ -15,21 +15,12 @@
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
       <img src="https://img.shields.io/badge/license-GPL3-_red.svg">
   </a>
-  <a href="https://twitter.com/prakashzhaa1">
-    <img src="https://img.shields.io/badge/twitter-%40prakashzhaa1-blue">
+  <a href="https://twitter.com/Iamtheprakash1">
+    <img src="https://img.shields.io/badge/twitter-%40Iamtheprakash1-blue">
   </a>
     <a href="https://github.com/prakashzhaa/ghost/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed-raw/prakashzhaa/ghost.svg">
-  </a>
-  <a href="https://github.com/prakashzhaa/ghost/wiki">
-    <img src="https://img.shields.io/badge/doc-wiki-blue.svg">
-  </a>
-  <a href="https://t.me/joinchat/H5bAaw3YbzzmI5co">
-    <img src="https://img.shields.io/badge/telegram-@ghost-blue.svg">
-  </a>
-  <a href="https://hub.docker.com/r/prakashzhaa/ghost">
-    <img alt="Docker Cloud Build Status" src="https://img.shields.io/docker/cloud/build/prakashzhaa/ghost">
-  </a>
+    <img src="https://img.shields.io/github/issues-closed-raw/Iamtheprakash1/ghost.svg">
+  
 </p>
 
  
