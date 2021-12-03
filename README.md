@@ -34,35 +34,6 @@ It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CR
  
 
  
-
-📔 Table of Contents
------------------
-- [💿 Installation:](#-installation)
-  -  In your PC/VPS/VM](#a-in-your-pcvpsvm)
-  - [1) From repository](#1-from-repository)
-- [⚙️ Config file:](#️-config-file)
-- [Usage:](#usage)
-- [Example Usage:](#example-usage)
-- [Axiom Support: :cloud:](#axiom-support-cloud)
-- [BBRF Support: :computer:](#bbrf-support-computer)
-- [Sample video:](#sample-video)
-- [:fire: Features :fire:](#fire-features-fire)
-  - [Osint](#osint)
-  - [Subdomains](#subdomains)
-  - [Hosts](#hosts)
-  - [Webs](#webs)
-  - [Extras](#extras)
-- [Mindmap/Workflow](#mindmapworkflow)
-  - [Data Keep](#data-keep)
-    - [Main commands:](#main-commands)
-  - [How to contribute:](#how-to-contribute)
-  - [Need help? :information_source:](#need-help-information_source)
-  - [You can support this work buying me a coffee:](#you-can-support-this-work-buying-me-a-coffee)
-- [Sponsors ❤️](#sponsors-️)
-- [Thanks :pray:](#thanks-pray)
-- [Disclaimer](#disclaimer)
- 
----
  
 # 💿 Installation:
  
