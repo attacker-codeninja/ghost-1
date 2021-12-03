@@ -323,23 +323,6 @@ reset='\033[0m'
 ./ghost.sh -h
 ```
  
-# Axiom Support: :cloud:
-![](https://i.ibb.co/Jzrgkqt/axiom-readme.png)
-> Check out the wiki section for more info [Axiom Support](https://github.com/prakashzhaa/ghost/wiki/5.-Axiom-version)
-* As ghost actively hits the target with a lot of web traffic, hence there was a need to move to Axiom distributing the work load among various instances leading to reduction of execution time.
-* During the configuration of axiom you need to select `ghost` as provisoner.  
-* You can create your own axiom's fleet before running ghost or let ghost to create and destroy it automatically just modifying ghost.cfg file.
-
-# BBRF Support: :computer:
-* To add ghost results to your [BBRF instance](https://github.com/honoki/bbrf-server) just add IP and credentials on ghost.cfg file section dedicated to bbrf.
-* During the execution of the scans the results will be added dinamically when each step ends.
-* Even you can set up locally your BBRF instance to be able to visualize your results in a fancy web UI.
- 
-# Sample video:
- 
-![Video](images/ghost.gif)
- 
-# :fire: Features :fire:
  
  ## Osint
 - Domain information parser ([domainbigdata](https://domainbigdata.com/))
@@ -409,9 +392,6 @@ reset='\033[0m'
 - Out of Scope Support
 - Notification system with Slack, Discord and Telegram ([notify](https://github.com/projectdiscovery/notify)) and sending zipped results support
  
-# Mindmap/Workflow
- 
-![Mindmap](images/mindmapv2.png)
  
 ## Data Keep
  
@@ -430,28 +410,6 @@ Follow these simple steps to end up having a private repository with your `API K
 * Upload changes to your personal repo: `git add . && git commit -m "Data upload" && git push origin master`
 * Update tool anytime: `git fetch upstream && git rebase upstream/main master`
  
-## How to contribute:
- 
-If you want to contribute to this project you can do it in multiple ways:
-- Submitting an [issue](https://github.com/prakashzhaa/ghost/issues/new/choose) because you have found a bug or you have any suggestion or request.
-- Making a Pull Request from [dev](https://github.com/prakashzhaa/ghost/tree/dev) branch because you want to improve the code or add something to the script.
- 
-## Need help? :information_source:
- 
-- Take a look at the [wiki](https://github.com/prakashzhaa/ghost/wiki) section.  
-- Check [FAQ](https://github.com/prakashzhaa/ghost/wiki/7.-FAQs) for commonly asked questions.  
-- Ask for help in the [Telegram group](https://t.me/joinchat/TO_R8NYFhhbmI5co)
- 
-## You can support this work buying me a coffee:
- 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png">](https://www.buymeacoffee.com/prakashzhaa)
-
- 
-# Sponsors ❤️
-**This section shows the current financial sponsors of this project**  
- 
- 
-[<img src="https://pbs.twimg.com/profile_images/1360304248534282240/MomOFi40_400x400.jpg" width="100" height=auto>](https://github.com/0xtavian)
 
 # Thanks :pray:
 * Thank you for lending a helping hand towards the development of the project!
