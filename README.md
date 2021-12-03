@@ -48,7 +48,6 @@ cd ghost/
 ```
   
 # ⚙️ Config file:
-> A detailed explaintion of config file can be found here [Configuration file](https://github.com/prakashzhaa/ghost/wiki/3.-Configuration-file) :book:
  
 - Through ```ghost.cfg``` file the whole execution of the tool can be controlled.
 - Hunters can set various scanning modes, execution preferences, tools, config files, APIs/TOKENS, personalized wordlists and much more.
