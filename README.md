@@ -2,13 +2,13 @@
   <br>
   <a href="https://github.com/prakashzhaa/ghost"></a>
   <br>
-  ghost
+  **Ghost**
   <br>
 </h1>
 
 
 <p align="center">
-  <a href="https://github.com/prakashzhaa/ghost/releases/tag/v2.1.3">
+  <a href="https://github.com/prakashzhaa/ghost">
     <img src="https://img.shields.io/badge/release-v2.1.3-green">
   </a>
    </a>
@@ -18,7 +18,7 @@
   <a href="https://twitter.com/Iamtheprakash1">
     <img src="https://img.shields.io/badge/twitter-%40Iamtheprakash1-blue">
   </a>
-    <a href="https://github.com/prakashzhaa/ghost/issues?q=is%3Aissue+is%3Aclosed">
+    <a href="https://github.com/prakashzhaa/ghost">
     <img src="https://img.shields.io/github/issues-closed-raw/Iamtheprakash1/ghost.svg">
   
 </p>
