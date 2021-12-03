@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/prakashzhaa/ghost">
-    <img src="https://img.shields.io/badge/release-v2.1.3-green">
+    <img src="https://img.shields.io/badge/release-v1.1.1-green">
   </a>
    </a>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
